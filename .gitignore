@@ -161,4 +161,4 @@ cython_debug/
 
 
 # Ignore all data files 
-data/
+data/input/
